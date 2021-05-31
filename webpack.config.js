@@ -28,7 +28,6 @@ module.exports = env => {
 						'style-loader',
 						MiniCssExtractPlugin.loader,
 						'css-loader',
-						// 'sass-loader',
 						'postcss-loader'
 					]
 				}
